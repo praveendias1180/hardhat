@@ -50,3 +50,11 @@ https://eips.ethereum.org/EIPS/eip-20
 # Console Logging
 
 ![](console.png)
+
+# Deployed Live on Goerli!
+
+![](deployed.png)
+
+## Thanks Alchemy
+
+![](alchemy.png)
