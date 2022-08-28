@@ -72,3 +72,5 @@ Generate some RQC (Range Quest Coins)
 ```
 npx hardhat --network localhost faucet 0xc9ec3f012353bff6c0f7dacc5f8d7f50611de846
 ```
+
+![](rqc.png)
