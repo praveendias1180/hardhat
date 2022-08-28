@@ -11,5 +11,8 @@
     "praveen"
   ],
   "author": "Praveen Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.10.2"
+  }
 }
