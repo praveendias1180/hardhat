@@ -46,3 +46,7 @@ https://eips.ethereum.org/EIPS/eip-20
 # Full Coverage (Solidity Testing)
 
 ![](full-coverage.png)
+
+# Console Logging
+
+![](console.png)
