@@ -42,3 +42,7 @@ https://eips.ethereum.org/EIPS/eip-20
 # Testing Solidity Contracts
 
 ![](testing.png)
+
+# Full Coverage (Solidity Testing)
+
+![](full-coverage.png)
